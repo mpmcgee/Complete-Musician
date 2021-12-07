@@ -1,18 +1,15 @@
-Complete Musician App
+# Complete Musician App
 
-Proposal
-
-Matthew McGee, CSCI 24000
-
-**Purpose**
-
-The goal of this project is to show proficiency using the content learned in CSCI 24000, to include object-oriented programming, abstract data types, and data structures in the Java language.
+**Instructions for running app:**
+* Ensure you have Java Runtime Environment (JRE) installed on your computer https://www.oracle.com/java/technologies/downloads/#jdk17-windows
+* download all files to the same directory and type the command: make run
+* note: Windows will require the prior installation of a make program, such as chocolatey https://chocolatey.org/install
 
 **Overview**
 
 This app is a system for musicians to create, organize, and log their practice routines to ensure that they are spending the necessary time on each skill (improvisation, practicing songs, technique, etc.) to advance as a well-rounded musician. The user will also be able to log their repertoire, or the songs that they are able to play (multiple repertoires are common for different groups and settings, instruments, etc.), and store certain information during each comopnent segment that will be saved for reporting. It is all too common to meet musicians who spend all day studying only technique and song fragments and cannot play you any songs when you ask. Or the opposite, and they have been playing the same easy song for years. This system is intended for a musician to be able to log and analyze the most important components of being as successful as they can at what they do.
 
-**User Class **
+**User Class**
 
 The user class will be an object that represents the musician. This object will be made up of at least one practice routine, one or more repertoires, and a compilation of session objects. This object will allow the user to view metrics and logs.
 
