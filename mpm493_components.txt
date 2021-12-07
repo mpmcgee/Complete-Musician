@@ -1,0 +1,4 @@
+Advanced Intermediate,WarmUp,1000
+Advanced Intermediate,Technique,2000
+Advanced Intermediate,SongPractice,30
+Advanced Intermediate,Improv,10

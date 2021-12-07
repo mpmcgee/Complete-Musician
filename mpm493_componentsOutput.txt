@@ -1,0 +1,8 @@
+Advanced Intermediate,Warm up,1000
+Advanced Intermediate,120 60
+Advanced Intermediate,Repertoire Practice,30
+Advanced Intermediate,Jammed in f
+Quick Study,Warm up,1000
+Quick Study,120 60
+Quick Study,Repertoire Practice,30
+Quick Study,Jammed in f
