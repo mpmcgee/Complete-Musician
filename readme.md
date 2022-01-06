@@ -69,7 +69,7 @@ The app will be primarily designed for the use case of a musician being able to 
 
 
 
-## Entity Relationship Diagram
+## UML Diagram
 
 ![](finalUML.png)
 
